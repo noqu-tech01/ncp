@@ -1,0 +1,7 @@
+"test": "jest"
+  },
+=======
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
